@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan  7 15:47:13 2019
-SENTIMENT CLASSIFICATION USING HYBRID PREDICTION MODEL
+WORD EMBEDDINGS
 @author: Raj Kumar Shrivastava
 """
 import pandas as pd
